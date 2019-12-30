@@ -1,0 +1,86 @@
+.outs{
+    border: 1px solid #ccc;
+    width: 2.91rem;
+    height: 3.27rem;
+}
+.pop{
+    margin-left: 0.09rem;
+}
+dl{
+    display: flex;
+}
+td img{
+    width: 0.55rem;
+    height: 0.55rem;
+}
+.ht{
+    width: 2.51rem;
+    height: 0.56rem;
+    position: relative;
+    left: 0.2rem;
+    top:0.13rem;
+}
+dl h3{
+    font-size: 0.15rem;
+    display: -webkit-box;
+    -webkit-line-clamp: 1;
+   -webkit-box-orient: vertical;
+   overflow: hidden;
+   width: 1.32rem;
+}
+dl p{
+    font-size: 0.12rem;
+    margin-top: 0.13rem;
+    margin-left: 0.1rem;
+}
+dl h3{
+    margin-left: 0.1rem;
+    /* width: 1.37rem; */
+}
+dl span{
+    /* display: inline; */
+    position: relative;
+    bottom:0.37rem;
+    left:1.8rem;
+    font-size: 0.2rem;
+}
+
+.last{
+    display: flex;
+}
+.last img{
+    width: 1.18rem;
+    height: 1.61rem;
+    position: relative;
+    top: 0.98rem;
+    left:0rem;
+    padding-left: 0.19rem;
+}
+.last p{
+    width: 1.25rem;
+    height: 0.37rem;
+    border-bottom:1px solid #ccc ;
+}
+ .divs p span:nth-child(1){
+    position: relative;
+    top: 0rem;
+    left: 0.3rem;
+} 
+.divs p span:nth-child(2){
+    display: block;
+    width: 0.0rem;
+    height: 0.0rem;
+    border: 0.03rem solid #ccc;
+    border-radius: 50%;
+    position: relative;
+    left:0.6rem ;
+    top:0.15rem;
+    
+}
+.divs{
+    width: 100%;
+    height: 0.37rem;
+    position: relative;
+    left:0.1rem;
+    bottom:1.4rem;
+}
